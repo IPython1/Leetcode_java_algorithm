@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 /**
  * @Author:杰杰睡不醒
  * @Date:2024/6/1 17:12
- * @Description:快速排序模板
+ * @Description:快速排序模板  不稳定 平均时间复杂度O(nlogn)
  **/
 public class QuickSort {
     public static void quickSort(int[] q, int l, int r) {
